@@ -10,6 +10,7 @@ Org Mode is known to be a great tool not just for writing and personal notes but
 
 - *How many Org files do I need?*
 - *How do I decide where to put things in my Org files?*
+  + We can expand it well too!
 
 Org Roam solves these problems by making it easy to create topic-focused Org Files and link them together so that you can treat the information as nodes in a network rather than as hierarchical documents.  You can think of it like a personal wiki!
 
