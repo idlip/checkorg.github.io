@@ -1,6 +1,7 @@
 #+title: Build a Second Brain in Emacs
 
 * Episodes
+Yaya
 
 1. [[./getting-started-with-org-roam.org][Getting Started with Org Roam]]
 2. [[./capturing-notes-efficiently.org][Capturing Notes Efficiently with Org Roam]]
